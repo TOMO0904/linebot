@@ -1,4 +1,4 @@
-[English](README.md) | [日本語](README.ja.md)
+**English** | [日本語](README.ja.md)
 
 # Task Logger LINE Bot
 
@@ -41,4 +41,4 @@ Expose the webhook over HTTPS (ngrok, Render, etc.) and register it in LINE Deve
 
 ## Notes
 
-The bot's chat UI and persona are in Japanese. A Japanese README is available: [README.ja.md](README.ja.md).
+The bot's chat UI and persona are in Japanese. More detailed feature notes (Japanese): [docs/DETAILS.ja.md](docs/DETAILS.ja.md).
